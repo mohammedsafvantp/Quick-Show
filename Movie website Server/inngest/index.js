@@ -1,6 +1,6 @@
 
 import { Inngest } from "inngest";
-// import User from "../Models/User";
+import User from "../Models/User.js";
 
 
 // Create a client to send and receive events
